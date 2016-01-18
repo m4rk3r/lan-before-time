@@ -1,4 +1,4 @@
-LAN BEFORE TIME
+[LAN BEFORE TIME](http://mark-beasley.com/log/2013-12-30/lan-time/)
 =================
 
 A little wayback machine gif compiler spanning time and popular design aesthetics.
